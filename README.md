@@ -1,20 +1,28 @@
 # HTML & CSS Fundamentals - Phase 0
 
-## 📕 About This Repo
+## � About This Repository
 
---> I'm learning HTML & CSS to build the foundation of web development.
---> This repo contains all my practice files, exercises, and small projects related to HTML & CSS fundamentals.
+This repository contains my practice files, exercises, and small projects for learning HTML and CSS fundamentals.
+It focuses on building a strong foundation for web layout, styling, and page structure.
 
-## 🏃 How to Run
+## 📁 What You'll Find
 
-- 1, Clone the repo
-- 2, Open any `.html` file in VS-Code
-- 3, Run it using Live Server or open it in your browser
+- Basic HTML structure and semantic elements
+- CSS selectors, properties, and styling techniques
+- Practice pages and beginner exercises
+- Small projects to apply what I learn
 
-## 🧠 Why This Matters
+## ▶️ How to Run
 
---> Building strong HTML & CSS skills helps me create clean, structured, and responsive web pages.
+1. Clone the repository
+2. Open the folder in VS Code
+3. Open any `.html` file
+4. Use Live Server or open the file in your browser
 
-## ⛓️‍💥 Connect with me
+## 💡 Why This Matters
 
---> [GitHub Profile](https://github.com/liamwork999-art)
+Learning HTML and CSS helps me create clean, readable, and responsive web pages.
+
+## 🔗 Connect With Me
+
+- [GitHub Profile](https://github.com/liamwork999-art)
